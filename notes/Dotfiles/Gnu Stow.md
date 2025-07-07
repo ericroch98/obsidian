@@ -17,7 +17,7 @@ Beispiel:
 	        |-- plugins
 	        |-- .tmux.conf
 ```
-**Vorteil:** alles kann mit `stow .`, wenn man sich im **dotfiles-Verzeichnis** befindet direkt gelinked werden.
+**Vorteil:** alles kann mit `stow .`, wenn man sich im **dotfiles-Verzeichnis** befindet direkt gelinked werden.  
 **Nachteil:** man kann nur umständlich über die -d und -t flag einzelne Konfugurationen verlinken. [Quelle](https://www.gnu.org/software/stow/manual/stow.html#Invoking-Stow)
 
 
@@ -43,5 +43,5 @@ Beispiel:
                 |-- plugins
                 |-- tmux.conf     
 ```
-**Vorteil:** Konfigurationen für einzelne Software kann mit `stow package-name` für die gewünschte Software geladen werden. Konfigurationen für neue Software ist in einem eigenen Package und verringert das Risiko bestehende Dateien ausversehen zu verändern.
+**Vorteil:** Konfigurationen für einzelne Software kann mit `stow package-name` für die gewünschte Software geladen werden. Konfigurationen für neue Software ist in einem eigenen Package und verringert das Risiko bestehende Dateien ausversehen zu verändern.  
 **Nachteil**: Zu Beginn etwas unintuitiv und viel Redundanz.
