@@ -1,3 +1,4 @@
+#config #dotfiles 
 ## Naming Convention
 Es gibt zwei Möglichkeiten Stow einzurichten. Hier wird davon ausgegangen, dass sich das Verzeichnis mit den zu linkenden Dateien im HOME-Verzeichnis befindet. Mit dem Befehl `stow .` nimmt stow die aktuellen Dateien und linkt sie in das übergeordnete Verzeichnis.
 ### 1. direkte Abbildung der Home-Verzeichnisses
