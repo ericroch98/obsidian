@@ -1,0 +1,2 @@
+- Ein Rechner, der Aufteilt wer wie viel für etwas Zahlen muss
+- Summe eingeben und auswählen, wer beteiligt ist

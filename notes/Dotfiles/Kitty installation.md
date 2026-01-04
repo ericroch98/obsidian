@@ -1,4 +1,4 @@
-#config #dotfiles 
+#config #dotfiles #manuell 
 1.
 ```bash
 sudo apt install uuid-dev libdbus-1-dev libxcursor-dev libxrandr-dev libxi-dev libxinerama-dev libgl1-mesa-dev libxkbcommon-x11-dev libfontconfig-dev libx11-xcb-dev
